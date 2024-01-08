@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 Contains the class DBStorage
-*Update 08/01/2024: added def get(self, cls, id): to retrieve one object
+*Update 19/12/2023: added def get(self, cls, id): to retrieve one object
 added def count(self, cls=None): to count the number of objects in storage
 """
 

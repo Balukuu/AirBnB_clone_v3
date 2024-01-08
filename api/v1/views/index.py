@@ -29,4 +29,3 @@ def get_counts():
         'states': storage.count(State),
         'users': storage.count(User)
         })
-
